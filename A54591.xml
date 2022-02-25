@@ -1,0 +1,767 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infant-baptism vindicated from the exceptions of Mr. Thomas Grantham by Sam. Petto ...</title>
+            <author>Petto, Samuel, 1624?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54591</idno>
+            <idno type="STC">Wing P1899</idno>
+            <idno type="STC">ESTC R35388</idno>
+            <idno type="EEBO-CITATION">15272431</idno>
+            <idno type="OCLC">ocm 15272431</idno>
+            <idno type="VID">103339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1191:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infant-baptism vindicated from the exceptions of Mr. Thomas Grantham by Sam. Petto ...</title>
+                  <author>Petto, Samuel, 1624?-1711.</author>
+               </titleStmt>
+               <extent>[4], 18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S. for Ed. Giles ... and T. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grantham, Thomas, 1634-1692. --  Presumption no proof.</term>
+               <term>Infant baptism.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103339:1"/>
+            <p>
+               <pb facs="tcp:103339:1"/> Infant-Baptiſm VINDICATED FROM THE EXCEPTIONS OF
+M<hi rend="sup">r.</hi> Thomas Grantham.</p>
+            <p>By <hi>SAM. PETTO,</hi> Miniſter of the Goſpel in
+<hi>SUDBURY.</hi>
+            </p>
+            <q>
+               <bibl>Acts 2. 39.</bibl>
+               <p>
+                  <hi>For the Promiſe is unto you, and to your
+Children.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. S.</hi> for <hi>Ed. Giles,</hi>
+Bookſeller in <hi>Norwich,</hi> and <hi>T. Parkhurſt,</hi> at the
+<hi>Bi<g ref="char:EOLhyphen"/>ble and Three Crowns</hi> in <hi>Cheapſide,</hi> 1691.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103339:2"/>
+            <pb facs="tcp:103339:2"/>
+            <head>TO THE Chriſtian Reader.</head>
+            <p>
+               <hi>THere is ſuch Scripture-Evi<g ref="char:EOLhyphen"/>dence for Infant-Baptiſm, that
+intelligent, unprejudiced Men may find what Mr.</hi> Grantham <hi>ſaith
+againſt my Defence of it, a Reply, and no Anſwer; Preſumption, and no
+Proof.</hi>
+            </p>
+            <p>
+               <hi>The Practice of that Perſon which withdrew from our
+Communion, was ſuch as (if admitted) is deſtructive to all Goſpel of
+Church-Order, and ſo is no ſlight Occaſion to write upon: But I had other
+weighty Matters enſuing, which neceſſitated my Writing; and Mr.</hi>
+Grantham <hi>(not being medled with) can ſhew none ſuch for his
+Re<g ref="char:EOLhyphen"/>plying.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:103339:3"/> 
+               <hi>As to what he ſaith to me, I ſhall very
+briefly anſwer, being ſtill of the ſame Mind that I was of<g ref="char:punc">▪</g> Let all
+be meaſured by the Rule of the Word: And that thou mayeſt have
+<g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding therein, ſhall be the Prayer of him, who is</hi>
+            </p>
+            <closer>
+               <signed>Thine to ſerve thee In the Goſpel, Sam.
+Petto.</signed> 
+               <dateline>
+                  <date>Octob. 12. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:103339:3"/>
+            <head>Infant-Baptiſm VINDICATED.</head>
+            <p>INfants were diverſified by the Covenant made with <hi>Abraham,
+Gen.</hi> 17. and ſo ſtill may be by the Will of Chriſt, all not be<g ref="char:EOLhyphen"/>ing
+the Seed of <hi>Abraham.</hi>
+            </p>
+            <p>My Argument, <hi>pag.</hi> 3. was <hi>Ad Hominem,</hi> as appears
+there, and by my Poſtſcript; and ſaith only, <hi>[That Infant-Baptiſm
+is not expreſly forbid<g ref="char:EOLhyphen"/>den, therefore either it is lawful, or elſe
+Scripture-Conſequences must be admitted,]</hi> which is undeni<g ref="char:EOLhyphen"/>able. It was
+occaſioned by my being told in a Conference, that there ſhould be expreſs
+Scri<g ref="char:EOLhyphen"/>pture in ſuch a Caſe; therefore it was not my Miſtake. Neither is my
+Argument anſwered by ſaying, as he doth, <hi>p.</hi> 2. <hi>[There is no
+expreſs Scripture for Infant-Baptiſm, therefore Infant-Ba<g ref="char:EOLhyphen"/>ptiſm may be
+omitted.]</hi> This is falſe; for there is no expreſs Scripture for Women's
+Receiving the Lord's Supper, and divers other things, yet they may not be
+omitted, becauſe by Scripture-Conſequences, rightly deduced, they are
+requi<g ref="char:EOLhyphen"/>red. And hence I can ſubſcribe to every Word which he mentions of
+that Author of our own, <hi>p.</hi> 2. and to <hi>Tertullian</hi>'s Rule; I am
+of the ſame Mind; there is nothing therein againſt my Ar<g ref="char:EOLhyphen"/>gument, and I can
+eaſily withſtand any Innova<g ref="char:EOLhyphen"/>tion which is not expreſly forbidden in
+Scri<g ref="char:EOLhyphen"/>pture; <pb n="2" facs="tcp:103339:4"/> for <hi>I think things may be commanded or
+for<g ref="char:EOLhyphen"/>bidden by good Scripture-Conſequence:</hi> And it was and is my Judgment,
+<hi>that all in the Worſhip of God muſt be commanded there, either
+expreſly, or by neceſſary Conſequence.</hi>
+            </p>
+            <p>Thus Mr. <hi>Grantham,</hi> at his firſt beginning with me, and
+frequently after, by a multitude of im<g ref="char:EOLhyphen"/>pertinent Words, would make his
+incautelous Reader believe, that I bring Scriptures for one purpoſe, which
+are brought for another. As, <hi>p.</hi> 4. I bring <hi>Act.</hi> 8. 3. and 9.
+1. to prove that to be a Church-Member is, in Scripture, to be a Diſciple;
+whereas he would have it believed, that I thereby would immediately prove
+Infants Diſciples, <hi>p.</hi> 4. So the Scriptures by which I prove,
+<hi>p.</hi> 5. that the Name <hi>[Holy]</hi> is given to Father, Son and
+Spirit, as, 1 <hi>Pet. 1. 15. Lev.</hi> 19. 2. and 20. 7. <hi>Heb. 7. 26,
+&amp;c.</hi> he, <hi>p.</hi> 5, 6, 7. would make the Reader believe, that I
+bring them immediately to prove Infants diſcipled. And the like uſe he
+maketh, <hi>p.</hi> 6, 7. of the Scri<g ref="char:EOLhyphen"/>ptures whereby I prove, <hi>p.</hi> 5.
+that the Name <hi>[Holy]</hi> is given to the Church and its Members. So that,
+either from great Ignorance or Inadver<g ref="char:EOLhyphen"/>tency, he may bluſh that he beats the
+Air, and abuſeth me.</p>
+            <p>As to my firſt Argument, <hi>That ſome Infants are diſcipled
+ſo as to have the Name of Trinity upon them.</hi>
+            </p>
+            <p>At laſt, he denieth my Antecedent; ſaying, That no Infants are
+diſcipled at all, much leſs ſo as to have the Name of Father, Son and
+Spirit upon them.</p>
+            <p>In Anſwer, I evidenced it various ways: They are ſaid to be
+<hi>[holy,]</hi> and ſo are diſcipled: <pb n="3" facs="tcp:103339:4"/> God hath put his
+Name upon them before their Baptiſm, though it is ſolemnly ſignalized and
+de<g ref="char:EOLhyphen"/>clared after, when they are baptized.</p>
+            <p>His firſt Reaſon, <hi>p. 3. from</hi> Act. 10. 28. <hi>is
+an<g ref="char:EOLhyphen"/>ſwered in my Book,</hi> p. 49, 50, 51. I grant there is no diſtinction
+between <hi>Jew</hi> and <hi>Gentile,</hi> but thoſe of both who are
+viſibly in Covenant (whe<g ref="char:EOLhyphen"/>ther Adult, or Infants) are more clean than o<g ref="char:EOLhyphen"/>thers
+who are out of Covenant; and are a holy People, differenced from others, <hi>if
+not by Qua<g ref="char:EOLhyphen"/>litative, yet by Relative Holineſs in Church-ſtate,</hi> Rom.
+11. 16. 1 Pet. 2. 9. as of old, and nothing here againſt it.</p>
+            <p>As to his ſecond Reaſon, I ſay, Men, by the Word of God, are
+to be inſtrumental to bring Men within the Covenant, which extendeth to their
+Seed; therefore alſo to make Infants Diſ<g ref="char:EOLhyphen"/>ciples. Some may be made
+Diſciples without actual teaching, or learning; as we put Chil<g ref="char:EOLhyphen"/>dren to
+School, who at firſt learn nothing. Learned <hi>Spanhemius</hi> well
+obſerveth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>non ſignificat ſolum docere, ſed
+Diſcipulos facere, &amp; aequipollet,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Joh. 4.
+2. Dub. Evang. Par. 3. p.</hi> 93. giving Reaſons for it.</p>
+            <p>I do not ſay, that all who are under Means for Inſtruction
+(though Perſecutors) are Diſci<g ref="char:EOLhyphen"/>ples, but all who are in the School of
+Chriſt's Church; of which, ſome are Infants. The In<g ref="char:EOLhyphen"/>fant-Seed of Believing
+<hi>Jews</hi> were in it (by Co<g ref="char:EOLhyphen"/>venant, <hi>Gen.</hi> 17. and ſo, when that
+was ſpoken, <hi>Matth.</hi> 28. 19. (not being broken off till after<g ref="char:EOLhyphen"/>ward;)
+and ſo alſo the Seed of Believing <hi>Gen<g ref="char:EOLhyphen"/>tiles.</hi>
+            </p>
+            <p>I proved ſome Infants to be Diſciples, from <hi>Act.</hi> 15.
+10. He denies that every one were Diſ<g ref="char:EOLhyphen"/>ciples <pb n="4" facs="tcp:103339:5"/> whom they
+would have circumciſed, yet proves it not. But all which the Apoſtle
+bla<g ref="char:EOLhyphen"/>meth them for impoſing Circumciſion practical<g ref="char:EOLhyphen"/>ly upon, are called by
+him Diſciples, and theſe were principally Infants, <hi>Gen.</hi> 17. 10,
+11, 12. Will he ſay, they were not blamed for laying Circumciſion upon
+Infants? His Inſtance of In<g ref="char:EOLhyphen"/>fant-Sprinkling is not parallel, becauſe Infant
+is not a <hi>Genus</hi> for all that we would have baptized.</p>
+            <p>I proved, ſome Infants had the Name of the Trinity upon them, 1
+<hi>Cor.</hi> 7. 14. they are <hi>[holy.]</hi> This Holineſs he takes for
+being Legitimate, but anſwers not what I ſaid againſt it; nor doth he
+prove all to be holy that are legitimate.</p>
+            <p>
+               <hi>[Elſe,] i. e.</hi> Say ſome, If one be not a Belie<g ref="char:EOLhyphen"/>ver; or
+<hi>[elſe,]</hi> if the Unbeliever were not ſan<g ref="char:EOLhyphen"/>ctified to or by the
+Believer, then the Children were unclean, not illegitimate: For where there is
+no Sanctification of one, to or by the other, but both are Infidels or
+Unbelievers, yet the Children are legitimate, <hi>Heb.</hi> 13. 4. are no
+Ba<g ref="char:EOLhyphen"/>ſtards. The being <hi>[holy]</hi> then muſt be by a Se<g ref="char:EOLhyphen"/>paration unto
+God.</p>
+            <p>There is no Good in Sin, but it becometh of humbling and abaſing
+uſe to the Soul, and ſo ac<g ref="char:EOLhyphen"/>cidentally is turned by God to Good to it; which
+I ſuppoſe Mr. <hi>C.</hi> intendeth, by its being ſancti<g ref="char:EOLhyphen"/>fied to. And
+this is no new Doctrine, but as old as the Days of <hi>Hezekiah, 2 Chron.</hi>
+32. 25, 26. and <hi>Paul, 1 Tim.</hi> 1. 13.</p>
+            <p>And <hi>if all Infants be in a viſible State of Salva<g ref="char:EOLhyphen"/>tion by
+the Covenant of Grace,</hi> as Mr. <hi>Grantham</hi> ſaith they are, <hi>p.
+19. then they have the Name of the Trinity upon them, for the Covenant is a
+part of his Name,</hi> and ſo they are diſcipled; and what
+<pb n="5" facs="tcp:103339:5"/> hinders their being baptized? Doth not <hi>Matth.</hi> 28.
+19 command it?</p>
+            <p>He thinks then they ought to partake of the Lord's Table. But are
+they as capable of Self-Examination, and of that Eating and Drinking, and
+Spiritual Growth, as they are of being waſhed?</p>
+            <p>As to my ſecond Argument, <hi>from ſome Infants being
+viſibly or externally in the Covenant made with</hi> Abraham:</p>
+            <p>Obj. <hi>He premiſeth, that the Covenant of Grace with</hi>
+Abraham <hi>was Twenty four Years before Cir<g ref="char:EOLhyphen"/>cumciſion: Others under it,
+as</hi> Salah,—<hi>not ſo cir<g ref="char:EOLhyphen"/>cumciſed: And others were, to whom the
+Covenant of Grace ſeems to have the leaſt extent, as</hi> Iſhmael,
+Eſau, <hi>Bond-men,</hi>—p. 9.</p>
+            <p>
+               <hi>Then if by Covenant, Mr.</hi> P. <hi>means the Cove<g ref="char:EOLhyphen"/>nant of
+Circumciſion and Infants of Chriſtians, or the Covenant of Grace,</hi> Gen.
+12. <hi>he denies the</hi> Mi<g ref="char:EOLhyphen"/>nor: <hi>But if Infants be in a viſible State
+of Salva<g ref="char:EOLhyphen"/>tion, yet he denieth the Conſequence of the</hi> Major, <hi>that
+they are to be baptized,</hi> p. 10.</p>
+            <p>Anſ 1. <hi>The Covenant of Grace was made and publiſhed
+before</hi> Abraham, Gen. 3. 15. and thoſe might have Salvation by it through
+Chriſt; as <hi>Salah, Arphaxad.</hi>—Then the Church was Do<g ref="char:EOLhyphen"/>meſtical,
+but no ſuch clear Declaration of the Subjects, and their Church-ſtate and
+Privilege, in a Community of many Families for publick Worſhip and
+Ordinances; no ſuch Sign or To<g ref="char:EOLhyphen"/>ken of the Covenant for Infants, till
+Circumci<g ref="char:EOLhyphen"/>ſion was granted, <hi>Gen.</hi> 17. And after that Grant to
+<hi>Abraham,</hi> all good Men that could were ob<g ref="char:EOLhyphen"/>liged to joyn with him, or
+his Seed, as the only Church in ſuch Order then in the World, as
+<pb n="6" facs="tcp:103339:6"/> they would enjoy ſuch Church-Privileges: Wit<g ref="char:EOLhyphen"/>neſs his
+Servants which were Profeſſors, <hi>v. 13. Gen.</hi> 18. 19. and the
+Proſelytes, <hi>Exod. 12. 48, 49. Iſa.</hi> 56. 3, 6.</p>
+            <p>2. <hi>I mean that Covenant which Circumciſion was a Token
+of,</hi> Gen. 17. <hi>v.</hi> 7, to 15.</p>
+            <p>Indeed, This is the ſame Covenant, for ſub<g ref="char:EOLhyphen"/>ſtance, with
+that, <hi>Gen.</hi> 12. but in a new Edition; with a Declaration of the ancient
+Subjects, and an Enlargement of Privileges, as aforeſaid, which expreſly
+extended to the Infant-Seed, <hi>Gen.</hi> 17. 7, 9, 12 In the ſame Covenant
+and Breath, <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> himſelf, and alſo his Seed, are commanded to
+be circumciſed; and that as a Token of the Covenant between God and him,
+<hi>v.</hi> 9, 10, 11. He and his Seed then were in the ſame Cove<g ref="char:EOLhyphen"/>nant, and
+Circumciſion was of the ſame uſe to him and others: And that Covenant was
+not on<g ref="char:EOLhyphen"/>ly for Circumciſion and the Land of <hi>Canaan,</hi> but that (at
+leaſt viſibly) God would be a God to them; and there is a double
+Aſſurance thereof, <hi>v.</hi> 7, 8. and that clearly was a Covenant of
+Grace, and is ſtill continuing; for it was to him a Seal of the
+Righteouſneſs of Faith, <hi>Rom.</hi> 4. 11.</p>
+            <p>It is then his groſs Miſtake, to think that the Covenant,
+<hi>Gen.</hi> 12. is one, and that, <hi>Gen.</hi> 17. a<g ref="char:EOLhyphen"/>nother diſtinctione.
+Indeed, the Sign Circum<g ref="char:EOLhyphen"/>ciſion is ceaſed, but the Covenant is not
+repeal<g ref="char:EOLhyphen"/>ed, as to the Subject of it, Infants: This cannot be proved. 'Tis true,
+ſome did forfeit their vi<g ref="char:EOLhyphen"/>ſible, external Intereſt in the Covenant, as
+<hi>Iſh<g ref="char:EOLhyphen"/>mael</hi> and <hi>Eſau;</hi> and ſo may Profeſſors of the
+Go<g ref="char:EOLhyphen"/>ſpel alſo, after duly baptized: But they were ſo in Covenant before,
+as it had been broken if the Token had been neglected, or not applied,
+<hi>Gen.</hi> 17. 14.</p>
+            <p>
+               <pb n="7" facs="tcp:103339:6"/> 3. <hi>At laſt, he denieth the Conſequence
+of the</hi> Ma<g ref="char:EOLhyphen"/>jor; which is to ſay, <hi>That though ſome Infants be
+viſibly or externally in the Covenant which God made with</hi> Abraham,
+<hi>yet by the Will of Chriſt they are not to be baptized.</hi>
+            </p>
+            <p>I am glad to hear Men of this Perſuaſion con<g ref="char:EOLhyphen"/>feſs Infants
+within that Covenant; which indeed they muſt do, or elſe ſhew a Repeal of
+that Co<g ref="char:EOLhyphen"/>venant, as to the Subjects of it, which I think they can never prove.
+But I am ſorry this Man granteth Infants being in that Covenant upon ſuch a
+corrupt, unſcriptural Principle, <hi>viz.</hi> That all Infants are in a
+viſible State of Salvation by the Covenant of Grace; he muſt ſay by the
+Co<g ref="char:EOLhyphen"/>venant with <hi>Abraham,</hi> if he deny my <hi>Major,</hi> which is
+grounded upon that; and it will be impoſſible for him to prove all Infants
+in the World to be the Seed of <hi>Abraham,</hi> that in the very mention<g ref="char:EOLhyphen"/>ing
+of it importing a Limitation.</p>
+            <p>The ground of his Denial is, <hi>p.</hi> 10. upon a great
+Miſtake, <hi>viz.</hi> that the Covenant of Grace muſt be abſtracted from
+the Covenant of Circumci<g ref="char:EOLhyphen"/>ſion; whereas that which Circumciſion is an<g ref="char:EOLhyphen"/>nexed
+to (as I have proved) is the Covenant of Grace, only in a new Edition. Alſo
+he ſaith, <hi>[That never required the Application of any Ceremo<g ref="char:EOLhyphen"/>ny to
+Infants, as a Pledge of it, either before the Law, or as it is now
+eſtabliſhed—in the Goſpel.]</hi>
+            </p>
+            <p>All which is falſe; for Circumciſion was ſuch a Pledge and
+Token of the Covenant, to be ap<g ref="char:EOLhyphen"/>plied to Infants, above Four hundred Years
+be<g ref="char:EOLhyphen"/>fore the Law, <hi>Gal.</hi> 3. 17. and ſo Baptiſm under the Goſpel,
+<hi>Act.</hi> 2. 38, 39. for that is command<g ref="char:EOLhyphen"/>ed upon that Ground and
+Encouragement, that the Promiſe is to them; and that is there to a
+<pb n="8" facs="tcp:103339:7"/> double Subject <hi>[You Repenters, and your Seed,]</hi> and
+ſo to Infants, and ſo they are commanded to be baptized. All that are under
+the Ground and Encouragement unto the Duty of being baptized, are obliged to
+the Duty; and ſome Infants are under that, for the Promiſe is to them.</p>
+            <p>
+               <hi>Gen.</hi> 17. ſpeaketh not expreſly of Baptiſm, but it
+commandeth the Keeping the Covenant by ap<g ref="char:EOLhyphen"/>plying the Token of it, which now is
+not Cir<g ref="char:EOLhyphen"/>cumciſion, but Baptiſm; and ſo commandeth that even to Infants,
+ſeeing they are in the Co<g ref="char:EOLhyphen"/>venant, as aforeſaid; and there is no
+Scripture-Warrant to delay the applying that firſt Token of it after
+Opportunity is offered. If it were li<g ref="char:EOLhyphen"/>mited (as Circumciſion was) to the
+Eighth Day, it might be delayed till then, but now may be applied before. The
+Females were uncapable, wanting the part, and yet were deemed circum<g ref="char:EOLhyphen"/>ciſed in
+the Males, for all <hi>Iſrael</hi> are called the Circumciſion: Which
+anſwers his <hi>p.</hi> 9, 10, 11, 12.</p>
+            <p>It ſtill runs there in his Head, that all I ſay is brought
+forthwith to prove Infant-Baptiſm; whereas I prove other Mediums in order to
+it. Thus, <hi>p.</hi> 8. I mention <hi>Heb.</hi> 10. 16, 17. only to prove
+Remiſſion of Sins to be a great Bleſſing of the Covenant: He,
+<hi>p.</hi> 11. dreams that I muſt mean it of Infants.</p>
+            <p>So I mention the Second Commandment, as requiring the obſerving
+Goſpel-Inſtitutions, as Baptiſm after the alteration of the Sign, as of
+old it required Circumciſion: He fancieth, that I produce it preſently to
+prove Infant-Baptiſm.</p>
+            <p>So I, <hi>p.</hi> 41. mention <hi>Matth. 16. 18. Rom. 16. 16, 1
+Cor. 12. 27. &amp;c.</hi> to prove that the Church is Chriſt's: He,
+<hi>p.</hi> 13. conceiteth, that I would <pb n="9" facs="tcp:103339:7"/> hereby prove
+Infants viſibly Chriſt's; which I do by other <hi>Mediums.</hi> And here he
+talketh that Infants may be ſaved who were never baptized, which was not
+there my Buſineſs.</p>
+            <p>I am weary of his Impertinencies, but hope that by ſerious
+reading my Book, any judici<g ref="char:EOLhyphen"/>ous Perſon will have enough there to anſwer
+him.</p>
+            <p>Abraham <hi>had an Eccleſiaſtical Seed, even of In<g ref="char:EOLhyphen"/>fants,</hi>
+Gen. 17. The Infant-Seed of <hi>Jews</hi> were broken off with their Parents,
+from external In<g ref="char:EOLhyphen"/>tereſt in, and Privilege by the Covenant, <hi>Rom.</hi> 11.
+unleſs he can prove the Infants remained in Covenant ſtill.</p>
+            <p>The Seed of Believers are viſibly under the Promiſe, the Word
+of Faith, as the Seed of o<g ref="char:EOLhyphen"/>thers are not, and ſo are of the Faith.] I ſee
+no<g ref="char:EOLhyphen"/>thing to invalidate what I ſaid thereof.</p>
+            <p>I ſaid, <hi>Infants Intereſt in the Covenant,</hi> Gen. 17.
+<hi>is not cut off.</hi>
+            </p>
+            <p>Inſtead of proving a Repeal, and the Cutting them off, without
+which, all that he or others ſay is nothing, he replieth,</p>
+            <p>Obj. 1. <hi>Infants had as good Right to the Covenant of Grace
+before Circumciſion, and have the ſame Right now,</hi> v. 17, 18.</p>
+            <p>Anſ. <hi>And what if they had, and have it? That is for me, not
+against me.</hi> But, under favour, Cir<g ref="char:EOLhyphen"/>cumciſion was a new Privilege, which
+Infants had not before, <hi>Gen.</hi> 17.</p>
+            <p>However, this doth not prove them cut off from any, but the
+contrary.</p>
+            <p>Obj. 2. <hi>No Perſon's Right to Circumciſion did a<g ref="char:EOLhyphen"/>riſe out
+of the Covenant of Grace, but it did only iſſue from the Command of
+God,</hi> p. 17.</p>
+            <p>
+               <pb n="10" facs="tcp:103339:8"/> Anſ. 1. <hi>Here is no Syllable to prove
+that Infant-Intereſt in the Covenant,</hi> Gen. 17. <hi>is cut off:</hi> Some
+Infants certainly had it, and ſo muſt ſtill, unleſs there be a
+Repeal.</p>
+            <p>2. <hi>The Command is expreſs to all the Seed of</hi> A<g ref="char:EOLhyphen"/>braham,
+<hi>to keep the Covenant by applying the Token:</hi> And Infants are expreſly
+concerned in that Com<g ref="char:EOLhyphen"/>mand, <hi>Gen.</hi> 17. 9, 10, 11, 12. and ſo all
+Infants within that Covenant are under that Command ſtill, unleſs cut off.
+'Tis true, the Sign of Circum<g ref="char:EOLhyphen"/>ciſion is changed, but the Covenant is the
+ſame, and the Subject of it the ſame: So that whether the Right ariſeth
+from the Covenant, or from the Command, or both, it matters not; all his Seed,
+Infants and all in it, by the Command, are to paſs under the Sign: And
+Circumciſion then being a Token of the Covenant, the Right to it muſt
+ariſe from the Covenant, although a Command was the Direction for applying
+the Sign.</p>
+            <p>Obj. 3. <hi>As Circumciſion did not give</hi> Abraham'<hi>s Seed
+an Intereſt in the Covenant of Grace, ſo the A<g ref="char:EOLhyphen"/>brogation did not take that
+Interest from them: He inſtanceth in the delay of it to</hi> Moſes <hi>his
+Child, the Omiſſion Forty Years in the Wilderneſs:—Infants now have
+no part in the Covenant of Circumciſion, yet they loſt nothing by it. And
+then he ſpeaketh of the Typical Covenant of Circumciſion being made
+void,</hi> p. 17, 18.</p>
+            <p>Anſ. 1. <hi>Who ſaith that Circumciſion did give them
+Interest in the Covenant of Grace?</hi> Rather a being in that Covenant gave
+Intereſt in Circum<g ref="char:EOLhyphen"/>ciſion, which was a Token of it. <hi>Moſes</hi> his
+delay<g ref="char:EOLhyphen"/>laying of Circumciſion was his Sin, <hi>Exod.</hi> 4. 24, 25, 26. and
+had like to have coſt him his Life; <pb n="11" facs="tcp:103339:8"/> and
+<hi>Iſrael</hi>'s Omiſſion of it was their Sin. And is it no Loſs, in
+Mr. <hi>Grantham</hi>'s Account, to be cut off from External Privileges,
+unleſs Men be wholly cut off from the Covenant of Grace, and the Salvation
+thereof? Is it nothing for God to ſay, <hi>Loami?</hi> The Taking away
+Circumciſion was a Mercy, the Lord giving Baptiſm in lieu of it; but if he
+had taken away that, and all Church-Privilege, and External Covenant-Intereſt
+alſo, from Infants, which once they had, it muſt needs be a great Loſs,
+an unſpeakable Diſadvantage, a ſore Judgment.</p>
+            <p>2. <hi>Now he declareth that Covenant which Circum<g ref="char:EOLhyphen"/>ciſion did
+belong to, void, and diſtinguiſhed from the Covenant of Grace, and calleth
+it a Typical Cove<g ref="char:EOLhyphen"/>nant:</hi> But not one Syllable of Scripture-Evidence for any
+ſuch thing: We muſt believe it, if he will, becauſe <hi>ipſe
+dixit.</hi> Here he ſhould have proved a Repeal of that Covenant with
+<hi>Abra<g ref="char:EOLhyphen"/>ham;</hi> and not having done this, he hath done no<g ref="char:EOLhyphen"/>thing. I believe
+that the Covenant, <hi>Gen.</hi> 17. wherein twice God declareth himſelf a
+God to the Seed of <hi>Abraham, v.</hi> 7, 8. the Sign whereof, Circumciſion,
+<hi>Abraham</hi> received, as a Seal of the Righteouſneſs of Faith,
+<hi>Rom.</hi> 4. 11. muſt needs be a Covenant of Grace, no Typical Covenant,
+nor void; for that Righteouſneſs was not of a Cove<g ref="char:EOLhyphen"/>nant only for
+<hi>Canaan,</hi> but of Grace, for Eternal Life. And that <hi>Abraham</hi>
+received it as a Sign of one Covenant, and his Seed of another, can ne<g ref="char:EOLhyphen"/>ver be
+proved: The contrary is plain, <hi>viz.</hi> that both had it by the ſame
+Command and Cove<g ref="char:EOLhyphen"/>nant, <hi>Gen.</hi> 17. 9, 10, 11.</p>
+            <p>But now Mr. <hi>Grantham, p. 19, 20, &amp;c.</hi> findeth a
+<hi>Medium</hi> by a new Poſition, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:103339:9"/> Poſit. <hi>That all Infants (as ſuch) are
+in a Viſible State of Salvation by the Covenant of Grace, and ſo are of the
+<g ref="char:V">Ʋ</g>niverſal Church of God, and cannot be put out of that bleſſed State,
+till by their voluntary de<g ref="char:EOLhyphen"/>parture from God, by chuſing ſinful Ways, they
+de<g ref="char:EOLhyphen"/>ſtroy themſelves.</hi>
+            </p>
+            <p>Anſ. <hi>If this were true, one would think that all In<g ref="char:EOLhyphen"/>fants,
+without exception, might be baptized, being ſo in the Covenant of Grace, and
+of the Church; for then they are made Diſciples, and ſo are expreſly
+com<g ref="char:EOLhyphen"/>manded to be baptized,</hi> Matth. 28. 19.</p>
+            <p>I hope Mr. <hi>Barret</hi> or ſome other will examine this
+Poſition, I ſhall not now inſiſt long upon it. If never ſo many
+Infants be in a State of Salva<g ref="char:EOLhyphen"/>tion, or be ſaved, this is not againſt my
+Principle of Infant Baptiſm: I would not diminiſh the number of ſaved
+Ones; however, I think this to be a falſe, unſcriptural Poſition.</p>
+            <p>Obj. <hi>He telleth us of five Demonſtrations,</hi> p. 20,
+<hi>to 24. but all of them come to one poor Argument from the Covenant of
+Grace,</hi> Gen. 3. 15. <hi>which he think<g ref="char:EOLhyphen"/>eth was made with all Mankind, with
+the whole World.</hi>
+            </p>
+            <p>Anſ. 1. <hi>That all Mankind, or the whole World, is this Seed
+of the Woman with whom the Covenant of Grace was made, is altogether without
+Proof;</hi> and ſo all his Demonſtrations are wholly groundleſs. Let him
+but form an Argument from <hi>Gen.</hi> 3. 15. that is univerſal, and any may
+ſee it will have a <hi>Non ſequitur.</hi>
+            </p>
+            <p>The utmoſt here ſaid is, that a Seed of the Wo<g ref="char:EOLhyphen"/>man, or ſome
+of her Seed, ſhould be ſaved; but it is not ſaid, All the Woman's Seed,
+as ſuch, ſhould be ſaved. His Poſition ſhould be his Con<g ref="char:EOLhyphen"/>cluſion of
+all his Demonſtrations<g ref="char:punc">▪</g> 
+               <hi>viz. That all Infants (as ſuch) are in a
+viſible State of Salvation <pb n="13" facs="tcp:103339:9"/> by the Covenant of Grace.</hi>
+But ſuch a Concluſion hath no Footing in, no Countenance from this Text,
+not ſo much as by Conſequence. I think I have better than this for
+Infant-Baptiſm; and I might ſay as well, that all their Seed have the
+Spirit poured out upon them, and the Word in their Mouth, <hi>Iſa.</hi> 44.
+3. and 59. 21.</p>
+            <p>The truth is, <hi>Gen.</hi> 3. 15. cometh in as a Threat<g ref="char:EOLhyphen"/>ning of
+Puniſhment or Severity againſt the Ser<g ref="char:EOLhyphen"/>pent, (as any obſerving Eye may
+ſee,) yet imply<g ref="char:EOLhyphen"/>ing a Promiſe of Mercy, attainable by ſome ſin<g ref="char:EOLhyphen"/>ning
+Men, through Chriſt, a Seed of the Wo<g ref="char:EOLhyphen"/>man. Until <hi>Adam</hi> did take hold
+of that Promiſe by Faith in that Seed, Chriſt, he remained out of Covenant,
+as others, <hi>Epheſ.</hi> 2. 8, 12. When <hi>A<g ref="char:EOLhyphen"/>dam</hi> was actually and
+perſonally admitted into the Covenant of Grace, yet it was not as a com<g ref="char:EOLhyphen"/>mon,
+publick Perſon, and Head of that Cove<g ref="char:EOLhyphen"/>nant, repreſenting all his Seed, as
+he was before his Fall a Head of the Covenant of Nature; for then
+<hi>Adam</hi>'s After-Sins againſt the Covenant would have been imputed to
+all his Seed, as his former were, againſt the Covenant of Works, <hi>Rom. 5.
+12, &amp;c. v.</hi> 20.—</p>
+            <p>Now every individual Man was perſonally to be in Covenant; and
+if he derived external Privilege, it was only to his next or immediate
+Seed.</p>
+            <p>Hence, if <hi>Adam</hi>'s Infant-Seed might have out<g ref="char:EOLhyphen"/>ward
+Privilege by being his Poſterity, (or any be<g ref="char:EOLhyphen"/>fore <hi>Abraham,)</hi> yet if
+any of them after rejected the Covenant, (as <hi>Cain</hi> did,) they caſt
+themſelves out of that external Privilege, and their Infant-Seed with them.
+So in after Generations, <hi>Hagar,</hi> and <hi>Iſhmael</hi> her Seed were
+caſt out, and <hi>Eſau</hi> and <pb n="14" facs="tcp:103339:10"/> his, the
+<hi>Iſraelites</hi> and theirs, <hi>Rom.</hi> 11. and thoſe were Strangers
+to the Covenants, <hi>Epheſ.</hi> 2. 12. See alſo <hi>Pſal.</hi> 37.
+28.</p>
+            <p>I know not that <hi>Adam</hi> and <hi>Eve</hi> (two Perſons)
+made a Church: Let Mr. <hi>Grantham</hi> prove it. But that Promiſe laid a
+Foundation for the E<g ref="char:EOLhyphen"/>recting a Viſible Church afterward.</p>
+            <p>If <hi>Adam</hi>'s Family was the Church, (as you ſay,) and the
+whole World, or all Mankind that then was (and ſo his Infant-Seed) were
+Members of it, yet <hi>Cain</hi> and his Seed were ſoon rejected;
+notwithſtanding which, many Perſons believing in that Seed, Chriſt, were
+ſo ſaved in after Ge<g ref="char:EOLhyphen"/>nerations, through that Promiſe. But that all
+Infants of rejected <hi>Cain, Iſhmael,</hi> or <hi>Eſau</hi> were in a
+viſible State of Salvation, and of the Viſible Church, or that all dying in
+Infancy are certainly ſaved, appeareth not, <hi>Gen.</hi> 3. 15. Mr.
+<hi>Grantham</hi> aſſerting, it is Preſumption without Proof.</p>
+            <p>2. <hi>That</hi> Gen. 3. 15. <hi>mentioneth a Seed of the Serpent,
+which is part of the World,</hi> as well as the Seed of the Woman, which the
+Covenant of Grace extendeth to; and hence this Text which he alledgeth is
+excluſive of ſome, and ſo confu<g ref="char:EOLhyphen"/>teth his Demonſtration. For if there be
+in it another oppoſite Seed, then all Mankind, or the whole World, cannot be
+compriſed in the Seed of the Woman, who are under this Promiſe. Will he
+ſay, the Seed of the Serpent are viſibly in a State of Salvation, by the
+Covenant of Grace: Or that they are no part of the World?</p>
+            <p>3. <hi>Only thoſe are this Seed of the Woman, under this
+Covenant or Promiſe, who have Enmity againſt the Serpent, and ſuch Power
+over him, as to bruiſe his Head: And this is excluſive of others.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:103339:10"/> For that is expreſly the Qualification of
+the Seed of the Woman here intended: Yea, the whole of the Promiſe which here
+extendeth un<g ref="char:EOLhyphen"/>to any of Mankind is, <hi>Gen. 3. 15. I will put Enmity between
+thee and the Woman, and between thy Seed and her Seed; it ſhall bruiſe thy
+Head;</hi> the follow<g ref="char:EOLhyphen"/>ing Words concern the Serpent, <hi>viz. his bruiſing
+his Heel.</hi> So then, none elſe are this Seed of the Woman, or viſibly in
+a State of Salvation, by this Covenant, but ſuch in whom is found that Enmity
+againſt the Serpent, ſo as to conflict with, and prevail againſt him.
+Therefore this <hi>[Seed of the Woman]</hi> can be only Chriſt, 1
+<hi>Joh.</hi> 3. 8. <hi>Heb.</hi> 2. 14, 15. and ſuch as believe in him; for,
+1 <hi>Joh. 5. 4. This is the Victory,—even our Faith.</hi> Hence the
+whole World cannot be here intended.</p>
+            <p>If whole Mankind, yea, all Infants were that Seed of the Woman,
+then all Infants have En<g ref="char:EOLhyphen"/>mity againſt the Serpent, and then they are ca<g ref="char:EOLhyphen"/>pable
+of, yea have Love to God, and Faith in him, and ſo may be baptized.</p>
+            <p>It is the Covenant which I called the great Charter of Heaven,
+<hi>viz.</hi> of the God of Heaven: And as others, by denying Infants
+Intereſt there<g ref="char:EOLhyphen"/>in, do take from it, ſo let him take heed of ad<g ref="char:EOLhyphen"/>ding to
+it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="16" facs="tcp:103339:11"/>
+            <head>A POSTSCRIPT.</head>
+            <p>THE foregoing Anſwer to Mr. <hi>Gran<g ref="char:EOLhyphen"/>tham</hi> ſhould have
+been publiſhed ſoon after its Date, 1687. with Mr. <hi>Firmin</hi>'s, if
+his had not been out before he expected; and it is at the deſire of ſome
+Friends, that now it cometh forth.</p>
+            <p>
+               <hi>He intimateth,</hi> p. 9. <hi>that</hi> Salah, Heber, &amp;c.
+<hi>lived after</hi> Gen. 17. <hi>and were not circumciſed, nor had
+Obligation to Circumciſion.</hi>
+            </p>
+            <p>But <hi>this is more than he knows,</hi> ſeeing ſo little is
+revealed to us of the way of their Worſhip in that Day. And it ſeemeth to
+be falſe, becauſe <hi>Abraham</hi> then was declared <hi>the Father of many
+Nations,</hi> v. 5. And ſo Believers of other Nations were then his Seed, and
+obliged, if ſome lawful Impediment hindred not.</p>
+            <p>
+               <hi>However, this is certain, that believing Gentiles in
+Goſpel-Times are graffed into, or intereſted in the ſame Covenant that
+was made with</hi> Abraham, Gen. 17. <hi>and his Seed;</hi> the ſame Olive
+which the <hi>Jews</hi> were broken off from, <hi>Rom.</hi> 11. 11, to 27. And
+as of old they were circumciſed, not merely by virtue of a Command, but as a
+Token of the Covenant, <hi>Gen.</hi> 17. 14. hence all under that Co<g ref="char:EOLhyphen"/>venant
+that could, were to ſubmit to it, and that as a Mark of Diſtinction; for
+they were diſtin<g ref="char:EOLhyphen"/>guiſhed from others by Circumciſion: Even ſo it is now
+as to Baptiſm.</p>
+            <p>
+               <pb n="17" facs="tcp:103339:11"/> And whereas Mr. <hi>Grantham denieth that the
+Co<g ref="char:EOLhyphen"/>venant,</hi> Gen. 17. <hi>is a Goſpel-Covenant, or a Cove<g ref="char:EOLhyphen"/>nant of
+Grace,</hi>
+            </p>
+            <p>This <hi>is his groſs Errour; for the Apoſtle proveth
+Juſtification in Goſpel-Times to be by Grace from this Covenant with</hi>
+Abraham, Rom. 4. 1, 2, 3, 4, 16, 17.</p>
+            <p>This is the very Ground which his Argument is built upon, <hi>viz.
+That we under the Goſpel are ju<g ref="char:EOLhyphen"/>ſtified in the ſame way that</hi> Abraham
+<hi>was, and there<g ref="char:EOLhyphen"/>fore by Grace:</hi> By the Promiſe, and not by the Law. If
+this could be denied, all his Arguing were vain and falſe.</p>
+            <p>Now <hi>that Covenant with</hi> Abraham, Gen. 17. <hi>which
+Circumciſion did belong to, is that which his Argument is bottomed upon,</hi>
+as is evident, <hi>Rom. 4. 16. Therefore it is of Faith, that it might be by
+Grace.</hi>—How doth he prove that? <hi>V. 17. As it is written, I have
+made thee a Father of many Na<g ref="char:EOLhyphen"/>tions</hi>—Now it is very obſervable,
+that this is quoted cut of <hi>Gen.</hi> 17. 4, 5. and it is no where elſe in
+foregoing Editions of the Covenant: <hi>It is not found in</hi> Gen. 12.
+<hi>nor in</hi> Gen. 15. <hi>therefore that,</hi> Gen. 17. <hi>was a
+Goſpel-Covenant, and not ceaſed.</hi>
+            </p>
+            <p>Doth Mr. <hi>Grantham</hi> think that the Apoſtle would ſeek
+to prove our Juſtification by an ab<g ref="char:EOLhyphen"/>rogated Covenant, and a legal one too, as
+he would have this be?</p>
+            <p>I might prove it a <hi>Goſpel-Covenant from his calling
+Circumciſion a Seal of the Righteouſneſs of Faith,</hi> Rom. 4. 11. and
+there is no Syllable in the In<g ref="char:EOLhyphen"/>ſtitution, declaring it to be of one Uſe to
+<hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and of another to other Perſons.</p>
+            <p>Alſo, <hi>From his ſetting this Promiſe to</hi> Abraham,
+<hi>in oppoſition to the Law,</hi> Rom. 4. 13, 14. it is
+con<g ref="char:EOLhyphen"/>tradiſtinguiſhed from that, as elſewhere, <hi>Gal.</hi> 3. 17.
+<pb n="18" facs="tcp:103339:12"/> This evidenceth it to be a Covenant of Grace, and ſtill
+in force; and if for Juſtification, then alſo for External Privileges to
+the Subjects of it.</p>
+            <p>And <hi>once more from</hi> Gen. 17. 7, 8. <hi>where twice he
+promiſeth to be</hi> [their God] <hi>which is the great Bleſſing of the
+new Covenant,</hi> Heb 8. 10.</p>
+            <p>What is objected <hi>to make it a legal Covenant, as that
+Circumciſion made Men Debtors to the whole Law,</hi> &amp;c. <hi>is
+vain.</hi>
+            </p>
+            <p>
+               <hi>For either it ſpeaketh of it in the Senſe of the Falſe
+Prophets, who urge Circumciſion—for Juſtification and Salvation:</hi>
+And thus if Men ſhould urge any Duty, even Baptiſm, upon ſuch a legal
+Ground, it would make them Debtors to the whole Law. <hi>Or it imports, that
+neither Circumciſion, nor any Works of the Law, do profit, unleſs all be
+performed;</hi> for the Law promiſed nothing but upon per<g ref="char:EOLhyphen"/>fect Obedience,
+<hi>Gal. 3. 10. Rom.</hi> 10. 5.</p>
+            <p>As to <hi>Gen.</hi> 3. 15. It maketh no mention of In<g ref="char:EOLhyphen"/>fants, much
+leſs of all of them. What Share they have in a Promiſe, muſt be deduced
+from other Texts, not from this. Will he ſay, that <hi>[Seed]</hi> and
+<hi>[Infants,]</hi> or <hi>[all Infants,]</hi> are ſynonymous? Here no more
+is ſaid of all Infants being the Seed of the Woman, than of ſome of them
+being the Seed of the Serpent.</p>
+            <p>I ſhall only add, that if Mr. <hi>Grantham</hi> ſhould reply
+ſo as I be convinced that the ſubſtance of what I have here written be
+not Truth, then I intend a Retractation: But if I be ſilent, it may be
+concluded that I do not account him worth the Anſwering.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:103339:12"/>
+            <head>
+               <hi>A Catalogue of Books, Printed for, and are to be Sold
+by</hi> Edward Giles, <hi>Bookseller in</hi> Nor<g ref="char:EOLhyphen"/>wich, <hi>near the</hi>
+Market-Place.</head>
+            <p>SEveral Diſcourſes concerning Actual Providence.</p>
+            <p>A Word in Seaſon.</p>
+            <p>Defenſive Armour againſt four of <hi>Satan</hi>'s moſt fiery
+Darts.</p>
+            <p>Sermons upon the whole 1ſt and 2d Chapter of
+<hi>Canticles.</hi>
+            </p>
+            <p>Thirteen Sermons upon ſeveral uſeful Subjects. All
+pub<g ref="char:EOLhyphen"/>liſhed by <hi>John Collings.</hi> D. D. of <hi>Norwich.</hi>
+            </p>
+            <p>The Way of the Spirit in bringing Souls to Chriſt.</p>
+            <p>The Glory of Chriſt ſet forth, with the Neceſſity of
+Faith: In ſeveral Sermons. Both by Mr. <hi>Thomas Allen,</hi> late Paſtor
+of a Church at <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>Enoch</hi>'s Walk with God and Chriſt, a Chriſtian's Gain.
+By Mr. <hi>Timothy Armitage,</hi> late Miniſter at <hi>Norwich.</hi>
+            </p>
+            <p>A Diſcourſe of the Preciouſneſs of Chriſt, and of the
+Pre<g ref="char:EOLhyphen"/>ciouſneſs of Faith.</p>
+            <p>Precious Promiſes the Portion of Overcomers.</p>
+            <p>Sermons on five ſeveral uſeful Subjects. All by Mr. <hi>John
+Longher,</hi> Miniſter in <hi>Norfolk.</hi>
+            </p>
+            <p>The Saint's <hi>Ebenezer.</hi> By Mr. <hi>Francis Engliſh,</hi>
+late Miniſter in <hi>Norwich.</hi>
+            </p>
+            <p>Directions to ſpell <hi>Engliſh</hi> right.</p>
+            <p>The Hiſtory of the <hi>Proteſtant Reformation,</hi> as it was
+begun by <hi>Luther.</hi>
+            </p>
+            <p>The dead Saints ſpeaking: Being a Sermon preached upon the Death
+of Mr. <hi>Newcomb,</hi> of <hi>Deadham</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>The <hi>Engliſh Presbyterian.</hi>
+            </p>
+            <p>The Miracles of Chriſt.</p>
+            <p>The ordinary Matter of Prayer, drawn into Queſtions and
+Anſwers.</p>
+            <p>Two Treatiſes: The firſt, Of Rejoycing in the Lord Jeſus in
+all Caſes and Conditions. The ſecond, Of a Chriſtian's Hope in Heaven,
+and Freedom from Condemnation by Chriſt. Both by Mr. <hi>Robert Aſty</hi>
+late Miniſter of Jeſus Chriſt in <hi>Norwich.</hi>
+            </p>
+            <p>Obedience to Magiſtrates: Recommended in a Sermon preached
+<hi>September</hi> the 9th, 1683. being the Thankſgiving-Day for His
+Majeſty's Deliverance. By <hi>Jonathan Clapham,</hi> Re<g ref="char:EOLhyphen"/>ctor of
+<hi>Wramplingham</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:103339:13"/> A Preſent for Youth, and an Example for the Aged:
+Two Diſcourſes; one, Of Spiritual Bleſſings; the other, That God hath
+an high Account of the leaſt Grace in the Saints. By Mr. <hi>John
+Cromwell,</hi> late Paſtor of a Church of Chriſt in <hi>Norwich.</hi>
+            </p>
+            <p>Infant-Baptiſm of Chriſt's Appointment. By Mr. <hi>Samuel
+Petto,</hi> Miniſter of the Goſpel in <hi>Sudbury</hi> in
+<hi>Suffolk.</hi>
+            </p>
+            <p>Of the Converſion of Sinners to God, in Chriſt; the
+Neceſ<g ref="char:EOLhyphen"/>ſity, Nature, Means and Signs of it: With a Concluding Speech to the
+Unconverted.</p>
+            <p>An Anſwer to Mr. <hi>Thomas Grantham</hi>'s Book, called A
+Dia<g ref="char:EOLhyphen"/>logue between the Baptiſt and Presbyterian. Both by <hi>Mar<g ref="char:EOLhyphen"/>tin
+Finch,</hi> Paſtor of a Church of Chriſt in <hi>Norwich.</hi>
+            </p>
+            <p>Sincerity: <hi>Or,</hi> The Upright Man's Walk to Heaven:
+Deli<g ref="char:EOLhyphen"/>vered in ſeveral Sermons in the Pariſh-Church of St. <hi>Michael,</hi>
+in <hi>Long-ſtratten,</hi> in <hi>Norfolk.</hi> By <hi>James Oldfield,</hi>
+late Miniſter there.</p>
+            <p>
+               <hi>Alexipharmacon Spirituale:</hi> Being a Defenſative
+againſt the Poi<g ref="char:EOLhyphen"/>ſon and Sting of Death: <hi>Or,</hi> The Great Expedient
+how to make the Bed of the Grave ſo eaſie, that we may lie down in Peace,
+and take our Reſt. By <hi>Samuel Snowden,</hi> Miniſter of the Goſpel at
+<hi>Newton</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>Chriſt ſet forth: In ſeveral Sermons upon the 17th Chapter
+to the <hi>Hebrews.</hi> By Mr. <hi>Robert Ottee,</hi> late Paſtor to a
+Congre<g ref="char:EOLhyphen"/>gation in <hi>Beckles</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>Sacramental Diſcourſes on ſeveral ſelect Subjects. To
+which is added, A Diſcourſe of the Life of Faith. By <hi>Chriſtopher
+A<g ref="char:EOLhyphen"/>marett,</hi> Miniſter of the Goſpel in <hi>Norfolk.</hi>
+            </p>
+            <p>A Diſcovery of Audacious Inſolence againſt the Doctrine of
+the Church of <hi>England,</hi> vented in a malicious Pamphlet, pub<g ref="char:EOLhyphen"/>liſhed
+againſt the Presbyterians, by <hi>Thomas Grantham:</hi> Toge<g ref="char:EOLhyphen"/>ther with a Poem
+thereon. And a Poſtſcript, wherein ſome of the Citizens of
+<hi>Norwich</hi> are more particularly concerned and cautioned.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103339:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
